@@ -915,6 +915,7 @@ li {
   overflow: hidden;
 }
 
+
 @media all {
   .acc_panel {
     max-height: 50em;
@@ -1231,12 +1232,18 @@ li {
     width: 300px;
   }
 
+  .b8 {
+    padding: 80px 0;
+  }
+
   .b8_title {
     width: auto;
+
   }
 
   .b8_title h2 {
-    font-size: 22px;
+    font-size: 20px;
+    margin-bottom: 30px;
   }
 
   .b8 form {
