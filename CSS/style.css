@@ -141,6 +141,10 @@ li {
   padding: 15px;
 }
 
+.header_social-mobile {
+  margin: 20px auto auto auto;
+}
+
 .hamburger {
   top: 0;
   right: 0;
@@ -840,6 +844,10 @@ li {
   padding-top: 90px;
 }
 
+.b10 .container {
+  max-width: 800px;
+}
+
 .b10_wrapper {
   padding-bottom: 90px;
 }
@@ -879,9 +887,9 @@ li {
 
 .acc dl a {
   text-align: center;
-  font-weight: 300;
-  padding: 2em;
-  font-size: 25px;
+  font-weight: 600;
+  padding: 1em;
+  font-size: 20px;
   display: block;
   text-decoration: none;
   color: #000;
@@ -1305,4 +1313,9 @@ li {
   .acc dl a {
     font-size: 17px;
   }
+
+  .b11 h2 {
+    font-size: 35px;
+  }
+
 }
